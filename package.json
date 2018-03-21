@@ -1,0 +1,25 @@
+{
+  "name": "benran",
+  "version": "1.0.0",
+  "description": "a website for benran",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijerrymagic/benranweb.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Zeyu li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijerrymagic/benranweb/issues"
+  },
+  "homepage": "https://github.com/lijerrymagic/benranweb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
