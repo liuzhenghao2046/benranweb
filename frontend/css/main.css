@@ -2,6 +2,7 @@ body {
   font-size: 20px;
   color: #212529;
   font-family: 'Lora', 'Times New Roman', serif;
+  background-image: url('../media/back2.jpg')
 }
 
 p {
@@ -173,6 +174,7 @@ img::-moz-selection {
 
 header.masthead {
   margin-bottom: 50px;
+  height: 805px;
   background: no-repeat center center;
   background-color: #868e96;
   background-attachment: scroll;
