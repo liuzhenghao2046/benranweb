@@ -90,6 +90,8 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 800;
   color: #343a40;
+  -webkit-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
 }
 
 #mainNav .navbar-toggler {
