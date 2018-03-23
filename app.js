@@ -18,9 +18,9 @@ app.use(express.static('frontend'));
 
 var http = require('http');
 
-http.createServer(app).listen(process.env.PORT, function () {
-    console.log('HTTP on port');
-});
-// http.createServer(app).listen(3000, function () {
-//     console.log('HTTP on port 3000');
+// http.createServer(app).listen(process.env.PORT, function () {
+//     console.log('HTTP on port');
 // });
+http.createServer(app).listen(3000, function () {
+    console.log('HTTP on port 3000');
+});
